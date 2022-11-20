@@ -2,3 +2,5 @@
 * Documented and analyzed the company information system and the proposed system. 
 * Used different methodology such as DFD Narrative, User requirements, Use Case Model and PIECE analysis to provide a detailed report. 
 * Proposed improvements in the business’ current information system that will bring solutions to problems and meet the user’s requirements. 
+
+For a quick summary/overview of the project, it is recommended to look at the PowerPoint Slides (Presentation file).
